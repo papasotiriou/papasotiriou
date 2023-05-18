@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @papasotiriou (https://twitter.com/sotpapasot)
+- 👋 Hi, I’m Sot (https://twitter.com/sotpapasot)
 - 👀 I’m interested in blockchain analytics applications
 - 🌱 I’m currently learning GraphQL. 
 - 💞️ I’m looking to collaborate on open-source projects that label blockchain addresses. 
