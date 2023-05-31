@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain analytics applications
 - 🌱 I’m currently learning GraphQL. 
 - 💞️ I’m looking to collaborate on open-source projects that label blockchain addresses. 
-- 📫 How to reach me ... via email papasotiriou@protonmail.com or twitter @sotpapasot 
+- 📫 How to reach me ... via email papasotiriou@protonmail.com 
 
 <!---
 papasotiriou/papasotiriou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
